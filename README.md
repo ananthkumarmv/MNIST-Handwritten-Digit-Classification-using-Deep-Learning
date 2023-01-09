@@ -1,1 +1,1 @@
-# Recognising-Handwritten-Digits-on-MNIST-Dataset-Using-KNN
+# MNIST-Handwritten-Digit-Classification-using-Deep-Learning
